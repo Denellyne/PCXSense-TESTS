@@ -1,2 +1,1 @@
-# PCXSense-Updater
-Updates PCXSense automatically
+# TESTS FOR PCXSENSE
